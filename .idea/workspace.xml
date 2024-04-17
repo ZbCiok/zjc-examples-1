@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XzW5iWd8Pq0wlEOstf765naLm5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zbyszek/IdeaProjects/reactive/github/zjc-examples/micronaut&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.10141988&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/micronaut" />
+      <recent name="$PROJECT_DIR$/quarkus/aws" />
+      <recent name="$PROJECT_DIR$/aws/spring-boot" />
+      <recent name="$PROJECT_DIR$/aws" />
+      <recent name="$PROJECT_DIR$/quarkus/reactive-messaging" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vertx/verticle/vertx-verticle-example01/src/main/java/zjc/examples/vertx.verticle" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebFluxPostgresqlExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="zjc-examples" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zjc.examples.webflux.postgresql.WebFluxPostgresqlExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-3c5dfc45" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="" />
+      <created>1699632206931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699632206931</updated>
+      <workItem from="1699632208039" duration="10424000" />
+      <workItem from="1699714277612" duration="1050000" />
+      <workItem from="1699715346486" duration="61000" />
+      <workItem from="1699715477607" duration="9000" />
+      <workItem from="1699715550844" duration="173000" />
+      <workItem from="1699715765377" duration="40000" />
+      <workItem from="1699715805902" duration="64000" />
+      <workItem from="1699715876576" duration="2135000" />
+      <workItem from="1699730519619" duration="2148000" />
+      <workItem from="1699788059684" duration="3168000" />
+      <workItem from="1699791239987" duration="1187000" />
+      <workItem from="1699792439340" duration="167000" />
+      <workItem from="1699792608201" duration="70000" />
+      <workItem from="1699792689490" duration="654000" />
+      <workItem from="1699796343470" duration="3508000" />
+      <workItem from="1699859958285" duration="2359000" />
+      <workItem from="1699882707358" duration="1322000" />
+      <workItem from="1699889106973" duration="356000" />
+      <workItem from="1699891318054" duration="1727000" />
+      <workItem from="1699960472721" duration="173000" />
+      <workItem from="1700138080971" duration="258000" />
+      <workItem from="1700138445513" duration="5098000" />
+      <workItem from="1700231114750" duration="2014000" />
+      <workItem from="1700510321923" duration="660000" />
+      <workItem from="1700565120459" duration="1491000" />
+      <workItem from="1700589007243" duration="4386000" />
+      <workItem from="1700679474663" duration="3487000" />
+      <workItem from="1700725100357" duration="7000" />
+      <workItem from="1700738989253" duration="645000" />
+      <workItem from="1700741607440" duration="2731000" />
+      <workItem from="1700821789853" duration="7232000" />
+      <workItem from="1700837089570" duration="91000" />
+      <workItem from="1701805225210" duration="678000" />
+      <workItem from="1701805913699" duration="2756000" />
+      <workItem from="1701868814749" duration="842000" />
+      <workItem from="1701956627734" duration="1403000" />
+      <workItem from="1701978837966" duration="27000" />
+      <workItem from="1702122570262" duration="4514000" />
+      <workItem from="1702208763366" duration="2120000" />
+      <workItem from="1702224586364" duration="1285000" />
+      <workItem from="1702282101681" duration="648000" />
+      <workItem from="1702409741700" duration="921000" />
+      <workItem from="1702458169244" duration="715000" />
+      <workItem from="1702557879874" duration="1520000" />
+      <workItem from="1702812993870" duration="3020000" />
+      <workItem from="1702882574344" duration="930000" />
+      <workItem from="1702969290150" duration="631000" />
+      <workItem from="1702974543405" duration="685000" />
+      <workItem from="1703243518760" duration="14000" />
+      <workItem from="1703243550428" duration="2631000" />
+      <workItem from="1703318343359" duration="3636000" />
+      <workItem from="1703322369752" duration="3299000" />
+      <workItem from="1703411897115" duration="3829000" />
+      <workItem from="1703513769793" duration="1306000" />
+      <workItem from="1703579570783" duration="2559000" />
+      <workItem from="1703845301746" duration="350000" />
+      <workItem from="1703963480168" duration="1048000" />
+      <workItem from="1704447444795" duration="357000" />
+      <workItem from="1704447929256" duration="1495000" />
+      <workItem from="1704623128937" duration="541000" />
+      <workItem from="1704631697157" duration="2275000" />
+      <workItem from="1704642804561" duration="37000" />
+      <workItem from="1704729778704" duration="1518000" />
+      <workItem from="1704792685276" duration="18000" />
+      <workItem from="1704819359075" duration="725000" />
+      <workItem from="1704974652390" duration="341000" />
+      <workItem from="1704976527556" duration="43000" />
+      <workItem from="1704976582702" duration="19000" />
+      <workItem from="1705064549000" duration="904000" />
+      <workItem from="1705090557366" duration="162000" />
+      <workItem from="1705136507226" duration="678000" />
+      <workItem from="1705145660347" duration="900000" />
+      <workItem from="1705172480335" duration="19000" />
+      <workItem from="1705684109323" duration="1154000" />
+      <workItem from="1706104440136" duration="2120000" />
+      <workItem from="1706111115500" duration="6000" />
+      <workItem from="1708499828353" duration="135000" />
+      <workItem from="1708508227119" duration="2581000" />
+      <workItem from="1708535321776" duration="1045000" />
+      <workItem from="1708585605596" duration="1270000" />
+      <workItem from="1708767396653" duration="1619000" />
+      <workItem from="1708850877506" duration="309000" />
+      <workItem from="1708852903999" duration="1050000" />
+      <workItem from="1708855263361" duration="711000" />
+      <workItem from="1708869674316" duration="920000" />
+      <workItem from="1708968764834" duration="63000" />
+      <workItem from="1709054563114" duration="761000" />
+      <workItem from="1709124266169" duration="780000" />
+      <workItem from="1709132432435" duration="654000" />
+      <workItem from="1709227759724" duration="44000" />
+      <workItem from="1709639913738" duration="545000" />
+      <workItem from="1709642537304" duration="1031000" />
+      <workItem from="1709643876939" duration="602000" />
+      <workItem from="1709654958956" duration="12000" />
+      <workItem from="1709654982576" duration="633000" />
+      <workItem from="1709716976196" duration="645000" />
+      <workItem from="1709718151298" duration="619000" />
+      <workItem from="1709722910441" duration="618000" />
+      <workItem from="1709815725347" duration="225000" />
+      <workItem from="1709822276717" duration="626000" />
+      <workItem from="1709829008374" duration="764000" />
+      <workItem from="1709832022403" duration="713000" />
+      <workItem from="1709888268528" duration="3768000" />
+      <workItem from="1709976108403" duration="1454000" />
+      <workItem from="1710010852492" duration="18000" />
+      <workItem from="1710010884725" duration="6000" />
+      <workItem from="1710351332422" duration="1159000" />
+      <workItem from="1710843626480" duration="111000" />
+      <workItem from="1712237390449" duration="1519000" />
+      <workItem from="1712682937252" duration="1046000" />
+      <workItem from="1712745175569" duration="518000" />
+      <workItem from="1712750960247" duration="2637000" />
+      <workItem from="1712947508461" duration="1389000" />
+      <workItem from="1713368245057" duration="5761000" />
+    </task>
+    <task id="LOCAL-00064" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703324172298</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1703324172299</updated>
+    </task>
+    <task id="LOCAL-00065" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703426014454</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1703426014454</updated>
+    </task>
+    <task id="LOCAL-00066" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703427455888</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1703427455889</updated>
+    </task>
+    <task id="LOCAL-00067" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703513849477</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1703513849478</updated>
+    </task>
+    <task id="LOCAL-00068" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703600872274</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1703600872275</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Dockerfile.native">
+      <option name="closed" value="true" />
+      <created>1703845417632</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1703845417632</updated>
+    </task>
+    <task id="LOCAL-00070" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1703964071434</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1703964071435</updated>
+    </task>
+    <task id="LOCAL-00071" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1704447678766</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1704447678767</updated>
+    </task>
+    <task id="LOCAL-00072" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1704448414953</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1704448414954</updated>
+    </task>
+    <task id="LOCAL-00073" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1704453104457</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1704453104457</updated>
+    </task>
+    <task id="LOCAL-00074" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1704729893384</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1704729893385</updated>
+    </task>
+    <task id="LOCAL-00075" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1704730081053</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1704730081053</updated>
+    </task>
+    <task id="LOCAL-00076" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1704819469181</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1704819469182</updated>
+    </task>
+    <task id="LOCAL-00077" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1704974817552</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1704974817552</updated>
+    </task>
+    <task id="LOCAL-00078" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1705064679027</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1705064679028</updated>
+    </task>
+    <task id="LOCAL-00079" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1705684240261</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1705684240261</updated>
+    </task>
+    <task id="LOCAL-00080" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1705684503205</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1705684503205</updated>
+    </task>
+    <task id="LOCAL-00081" summary="README.md 2">
+      <option name="closed" value="true" />
+      <created>1705685029730</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1705685029730</updated>
+    </task>
+    <task id="LOCAL-00082" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1706104625781</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1706104625782</updated>
+    </task>
+    <task id="LOCAL-00083" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1706104900015</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1706104900015</updated>
+    </task>
+    <task id="LOCAL-00084" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1706104916588</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1706104916588</updated>
+    </task>
+    <task id="LOCAL-00085" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1706105107211</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1706105107211</updated>
+    </task>
+    <task id="LOCAL-00086" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1706105157902</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1706105157902</updated>
+    </task>
+    <task id="LOCAL-00087" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1708499888641</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1708499888642</updated>
+    </task>
+    <task id="LOCAL-00088" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1708508428518</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1708508428518</updated>
+    </task>
+    <task id="LOCAL-00089" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1708535524272</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1708535524272</updated>
+    </task>
+    <task id="LOCAL-00090" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1708536017001</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1708536017001</updated>
+    </task>
+    <task id="LOCAL-00091" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1708767539259</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1708767539260</updated>
+    </task>
+    <task id="LOCAL-00092" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1708767726531</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1708767726531</updated>
+    </task>
+    <task id="LOCAL-00093" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1708852959779</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1708852959779</updated>
+    </task>
+    <task id="LOCAL-00094" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1708855362572</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1708855362572</updated>
+    </task>
+    <task id="LOCAL-00095" summary="application.properties 01">
+      <option name="closed" value="true" />
+      <created>1708869854808</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1708869854808</updated>
+    </task>
+    <task id="LOCAL-00096" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1709054709860</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1709054709861</updated>
+    </task>
+    <task id="LOCAL-00097" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1709124431788</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1709124431789</updated>
+    </task>
+    <task id="LOCAL-00098" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1709640321610</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1709640321611</updated>
+    </task>
+    <task id="LOCAL-00099" summary="application.properties">
+      <option name="closed" value="true" />
+      <created>1709815903133</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1709815903134</updated>
+    </task>
+    <task id="LOCAL-00100" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1709916568072</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1709916568072</updated>
+    </task>
+    <task id="LOCAL-00101" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710351681253</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1710351681253</updated>
+    </task>
+    <task id="LOCAL-00102" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1710843711968</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1710843711969</updated>
+    </task>
+    <task id="LOCAL-00103" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1712237537670</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1712237537671</updated>
+    </task>
+    <task id="LOCAL-00104" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1712253843653</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1712253843653</updated>
+    </task>
+    <task id="LOCAL-00105" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1712683065368</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1712683065369</updated>
+    </task>
+    <task id="LOCAL-00106" summary="application.properties">
+      <option name="closed" value="true" />
+      <created>1712756690734</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1712756690734</updated>
+    </task>
+    <task id="LOCAL-00107" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1712947638048</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1712947638049</updated>
+    </task>
+    <task id="LOCAL-00108" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1712947971033</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1712947971033</updated>
+    </task>
+    <task id="LOCAL-00109" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713368365237</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1713368365238</updated>
+    </task>
+    <task id="LOCAL-00110" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713368782147</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1713368782147</updated>
+    </task>
+    <task id="LOCAL-00111" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713368811226</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1713368811227</updated>
+    </task>
+    <task id="LOCAL-00112" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713369106356</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1713369106356</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="verticle 03" />
+    <MESSAGE value="verticle-example02" />
+    <MESSAGE value="verticle-example02 02" />
+    <MESSAGE value="verticle-example03 01" />
+    <MESSAGE value="verticle-example 03 02" />
+    <MESSAGE value="corrections" />
+    <MESSAGE value="event bus 01" />
+    <MESSAGE value="event-bus-pub-sub" />
+    <MESSAGE value="deploy" />
+    <MESSAGE value="deploying-verticle" />
+    <MESSAGE value="deploying-verticle 02" />
+    <MESSAGE value="readme.md" />
+    <MESSAGE value="readme.md 2" />
+    <MESSAGE value="corrections 01" />
+    <MESSAGE value="corrections 02" />
+    <MESSAGE value="README.md 01" />
+    <MESSAGE value="Corrections Comment.java 01" />
+    <MESSAGE value="Comments 01" />
+    <MESSAGE value="Comments 02" />
+    <MESSAGE value="Dockerfile.native" />
+    <MESSAGE value="README.md 2" />
+    <MESSAGE value="README.md" />
+    <MESSAGE value="application.properties 01" />
+    <MESSAGE value="application.properties" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+</project>
