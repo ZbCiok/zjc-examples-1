@@ -6,6 +6,7 @@
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
+
 - [Micronaut Maven Plugin documentation](https://micronaut-projects.github.io/micronaut-maven-plugin/latest/)
 ## Feature serialization-jackson documentation
 
