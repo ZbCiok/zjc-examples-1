@@ -35,7 +35,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zbyszek/IdeaProjects/reactive/github/zjc-examples/micronaut/micronaut-jpa-hibernate-maven-java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zbyszek/IdeaProjects/reactive/github/zjc-examples&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -50,11 +50,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/micronaut" />
       <recent name="$PROJECT_DIR$/quarkus/aws" />
       <recent name="$PROJECT_DIR$/aws/spring-boot" />
       <recent name="$PROJECT_DIR$/aws" />
-      <recent name="$PROJECT_DIR$/quarkus/reactive-messaging" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vertx/verticle/vertx-verticle-example01/src/main/java/zjc/examples/vertx.verticle" />
@@ -201,14 +201,8 @@
       <workItem from="1713423724068" duration="2220000" />
       <workItem from="1713803898944" duration="653000" />
       <workItem from="1713865287786" duration="10000" />
-    </task>
-    <task id="LOCAL-00065" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1703426014454</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1703426014454</updated>
+      <workItem from="1713984888725" duration="154000" />
+      <workItem from="1713985061720" duration="31000" />
     </task>
     <task id="LOCAL-00066" summary="first commit">
       <option name="closed" value="true" />
@@ -594,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713433735963</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713984995263</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1713984995263</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
