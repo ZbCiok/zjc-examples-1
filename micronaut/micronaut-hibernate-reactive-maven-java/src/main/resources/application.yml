@@ -20,7 +20,11 @@ jpa:
       hibernate:
         connection:
           db-type: mysql
+          url: jdbc:mysql://localhost:3306/micronaut
+          username: root
+          password: Yzrej53jc12S
         hbm2ddl:
-          auto: create-drop
+          auto: update
+#          auto: create-drop
         show_sql: true
 #end::jpa[]
