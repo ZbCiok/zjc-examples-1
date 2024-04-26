@@ -21,8 +21,8 @@ jpa:
         connection:
           db-type: mysql
           url: jdbc:mysql://localhost:3306/micronaut
-          username: root
-          password: Yzrej53jc12S
+          username: ${USERNAME}
+          password: ${PASSWORD}
         hbm2ddl:
           auto: update
 #          auto: create-drop
