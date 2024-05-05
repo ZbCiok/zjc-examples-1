@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +55,7 @@
       <recent name="$PROJECT_DIR$/aws" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/micronaut" />
       <recent name="$PROJECT_DIR$/vertx/verticle/vertx-verticle-example01/src/main/java/zjc/examples/vertx.verticle" />
     </key>
   </component>
@@ -203,14 +202,7 @@
       <workItem from="1713865287786" duration="10000" />
       <workItem from="1713984888725" duration="154000" />
       <workItem from="1713985061720" duration="31000" />
-    </task>
-    <task id="LOCAL-00066" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1703427455888</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1703427455889</updated>
+      <workItem from="1713985144489" duration="80000" />
     </task>
     <task id="LOCAL-00067" summary="first commit">
       <option name="closed" value="true" />
@@ -596,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713984995263</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1713985193100</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1713985193101</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
