@@ -33,7 +33,7 @@ public class AppConfig {
     @Bean
     public SQSConnectionFactory connectionFactory() {
         AmazonSQSAsync build = AmazonSQSAsyncClientBuilder.standard()
-                .withCredentials(new AWSStaticCredentialsProvider(new BasicAWSCredentials("x", "y")))
+                .withCredentials(new AWSStaticCredentialsProvider(new BasicAWSCredentials("", "")))
                 .withEndpointConfiguration(new AwsClientBuilder.EndpointConfiguration("http://localhost:4566", "us-east-1"))
                 .build();
 
