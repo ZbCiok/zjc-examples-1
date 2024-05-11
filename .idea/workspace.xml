@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="" />
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ZbCiok&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ZbCiok/zjc-examples-01.git&quot;,
+    &quot;accountId&quot;: &quot;302b4da6-5467-4215-ac7f-f027d451679e&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -33,7 +47,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zbyszek/IdeaProjects/reactive/github/zjc-examples&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/zbyszek/IdeaProjects/reactive/github/zjc-examples/traditional-messaging/activemq&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -48,11 +62,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/traditional-messaging/activemq" />
+      <recent name="$PROJECT_DIR$/aws/spring-boot" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/micronaut" />
       <recent name="$PROJECT_DIR$/quarkus/aws" />
-      <recent name="$PROJECT_DIR$/aws/spring-boot" />
-      <recent name="$PROJECT_DIR$/aws" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/micronaut" />
@@ -67,11 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WebFluxPostgresqlExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="zjc-examples" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="zjc.examples.webflux.postgresql.WebFluxPostgresqlExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-3c5dfc45" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -203,22 +225,8 @@
       <workItem from="1713984888725" duration="154000" />
       <workItem from="1713985061720" duration="31000" />
       <workItem from="1713985144489" duration="80000" />
-    </task>
-    <task id="LOCAL-00067" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1703513849477</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1703513849478</updated>
-    </task>
-    <task id="LOCAL-00068" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1703600872274</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1703600872275</updated>
+      <workItem from="1714903997383" duration="2206000" />
+      <workItem from="1715194149374" duration="351000" />
     </task>
     <task id="LOCAL-00069" summary="Dockerfile.native">
       <option name="closed" value="true" />
@@ -596,7 +604,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713985193101</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1714904186799</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1714904186800</updated>
+    </task>
+    <task id="LOCAL-00117" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1715194304894</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1715194304894</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
