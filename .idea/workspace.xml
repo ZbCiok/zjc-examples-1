@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="" />
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-messaging/rabbitmq/rabbitmq-hello-world/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/.idea/rabbitmq-hello-world.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/rabbitmq-hello-world/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/rabbitmq-hello-world/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/rabbitmq-hello-world/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-messaging/rabbitmq/rabbitmq-hello-world/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/rabbitmq-hello-world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-messaging/rabbitmq/rabbitmq-hello-world/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/rabbitmq-hello-world/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-messaging/rabbitmq/rabbitmq-hello-world/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/rabbitmq-hello-world/src/main/java/com/jreact/rabbitmq/Reciever.java" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-messaging/rabbitmq/rabbitmq-hello-world/src/main/java/com/jreact/rabbitmq/Reciever.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactive-messaging/rabbitmq-hello-world/rabbitmq-hello-world/src/main/java/com/jreact/rabbitmq/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/reactive-messaging/rabbitmq/rabbitmq-hello-world/src/main/java/com/jreact/rabbitmq/Sender.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,13 +75,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/traditional-messaging" />
       <recent name="$PROJECT_DIR$/traditional-messaging/activemq" />
       <recent name="$PROJECT_DIR$/aws/spring-boot" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/micronaut" />
-      <recent name="$PROJECT_DIR$/quarkus/aws" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
+      <recent name="$PROJECT_DIR$/reactive-messaging" />
       <recent name="$PROJECT_DIR$/micronaut" />
       <recent name="$PROJECT_DIR$/vertx/verticle/vertx-verticle-example01/src/main/java/zjc/examples/vertx.verticle" />
     </key>
@@ -218,15 +235,7 @@
       <workItem from="1714903997383" duration="2206000" />
       <workItem from="1715194149374" duration="351000" />
       <workItem from="1715431225762" duration="368000" />
-      <workItem from="1715598344270" duration="320000" />
-    </task>
-    <task id="LOCAL-00071" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1704447678766</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1704447678767</updated>
+      <workItem from="1715598344270" duration="1481000" />
     </task>
     <task id="LOCAL-00072" summary="README.md">
       <option name="closed" value="true" />
@@ -612,7 +621,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715598649029</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1715598757688</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1715598757688</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
