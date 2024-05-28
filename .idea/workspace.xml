@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="java-8-streams 01">
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-create-examples/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamIntermediateOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamTerminalOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/data/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/test/java/com/jreact/java8streams/StreamIntermediateOperationsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/test/java/com/jreact/java8streams/StreamTerminalOperationsTests.java" afterDir="false" />
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="java-8-streams 02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamIntermediateOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamIntermediateOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/java-8-streams/java-8-stream-create-examples",
+    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/java-8-streams/java-8-stream-operations-examples",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -239,14 +231,7 @@
       <workItem from="1716743628157" duration="736000" />
       <workItem from="1716909034108" duration="1642000" />
       <workItem from="1716912944321" duration="517000" />
-    </task>
-    <task id="LOCAL-00076" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1704819469181</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1704819469182</updated>
+      <workItem from="1716913486161" duration="1160000" />
     </task>
     <task id="LOCAL-00077" summary="first commit">
       <option name="closed" value="true" />
@@ -632,14 +617,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716743934228</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="java-8-streams 02">
+      <option name="closed" value="true" />
+      <created>1716913647694</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1716913647695</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="verticle-example02" />
     <MESSAGE value="verticle-example02 02" />
     <MESSAGE value="verticle-example03 01" />
     <MESSAGE value="verticle-example 03 02" />
@@ -664,6 +656,7 @@
     <MESSAGE value="application.properties" />
     <MESSAGE value="first commit" />
     <MESSAGE value="java-8-streams 01" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-8-streams 01" />
+    <MESSAGE value="java-8-streams 02" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-8-streams 02" />
   </component>
 </project>

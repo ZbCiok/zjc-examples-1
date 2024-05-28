@@ -7,39 +7,6 @@ import java.util.stream.Collectors;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
-/*
-* Stream intermediate operations return another Stream which allows you to call multiple operations
-* in the form of a query.
-* Stream intermediate operations do not get executed until a terminal operation is invoked.
-* All Intermediate operations are lazy, so they’re not executed until a result of processing is actually needed.
-*
-* Here is the list of all Stream intermediate operations:
-* stream.concat - Creates a lazily concatenated stream whose elements are all the elements of the first stream followed by all the elements of the second stream.
-* filter() -   Returns a stream consisting of the elements of this stream that match the given predicate.
-*
-* map() -      The Java Stream map() method converts (maps) an element to another object.
-*              For instance, if you had a list of strings it could convert each string to lowercase, uppercase,
-*              or to a substring of the original string, or something completely else.
-*
-* flatMap() -  The Stream.flatMap() function, as the name suggests, is the combination of a map and a flat operation.
-*              This means you first apply the map function and then flatten the result.
-*              To understand what flattening a stream consists in, consider a structure like [ [1,2,3],[4,5,6],[7,8,9] ] which has "two levels".
-*              It's basically a big List containing three more List.
-*              Flattening this means transforming it in a "one level" structure e.g. [ 1,2,3,4,5,6,7,8,9 ] i.e. just one list.
-*
-* distinct() - The Java Stream distinct() method is a non-terminal operation that returns a new Stream
-*              that will only contain the distinct elements from the original stream. Any duplicates will be eliminated.
-*
-* limit() -    It will truncate the remaining elements from the stream.
-*
-* peek() -     Stream<T> peek(Consumer<? super T> action) This intermediate operation returns a stream consisting of the elements of this stream,
-*              additionally performing the provided action on each element as elements are consumed from the resulting stream.
-*              The peek method is the intermediate method, so it will not execute until the terminal method is invoked.
-*
-* skip() -     This method skips the given n elements and returns a Stream.
-*
-* sorted() -   Returns a stream consisting of the elements of this stream, sorted according to the natural order.
-*/
 public class StreamIntermediateOperations {
 
     public void concatStringStreams() {
