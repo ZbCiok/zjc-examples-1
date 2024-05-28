@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="">
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="java-8-streams 01">
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-create-examples/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamIntermediateOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamTerminalOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/data/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/test/java/com/jreact/java8streams/StreamIntermediateOperationsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/test/java/com/jreact/java8streams/StreamTerminalOperationsTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,35 +47,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/zbyszek/jreact_com_jast-the-class/just-the-class-main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.10141988&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/java-8-streams/java-8-stream-create-examples",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.10141988",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-create-examples" />
+      <recent name="$PROJECT_DIR$/streams/java-8-streams" />
       <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
       <recent name="$PROJECT_DIR$/traditional-messaging" />
       <recent name="$PROJECT_DIR$/traditional-messaging/activemq" />
-      <recent name="$PROJECT_DIR$/aws/spring-boot" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
@@ -227,14 +236,9 @@
       <workItem from="1715666770975" duration="1984000" />
       <workItem from="1715932264903" duration="1131000" />
       <workItem from="1715933431990" duration="613000" />
-    </task>
-    <task id="LOCAL-00075" summary="README.md">
-      <option name="closed" value="true" />
-      <created>1704730081053</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1704730081053</updated>
+      <workItem from="1716743628157" duration="736000" />
+      <workItem from="1716909034108" duration="1642000" />
+      <workItem from="1716912944321" duration="517000" />
     </task>
     <task id="LOCAL-00076" summary="first commit">
       <option name="closed" value="true" />
@@ -620,14 +624,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715612222056</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="java-8-streams 01">
+      <option name="closed" value="true" />
+      <created>1716743934228</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1716743934228</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="verticle 03" />
     <MESSAGE value="verticle-example02" />
     <MESSAGE value="verticle-example02 02" />
     <MESSAGE value="verticle-example03 01" />
@@ -652,6 +663,7 @@
     <MESSAGE value="application.properties 01" />
     <MESSAGE value="application.properties" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="java-8-streams 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-8-streams 01" />
   </component>
 </project>
