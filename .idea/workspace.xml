@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="java-8-streams 02">
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/src/main/java/com/jreact/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/src/main/java/com/jreact/MySubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/src/test/java/com/jreact/MySubscriberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamIntermediateOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-operations-examples/src/main/java/com/jreact/java8streams/StreamIntermediateOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +55,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/java-8-streams/java-8-stream-operations-examples",
+    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/reactive-streams/java-flow-api",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,11 +70,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-create-examples" />
+      <recent name="$PROJECT_DIR$/streams/reactive-streams/java-flow-api" />
       <recent name="$PROJECT_DIR$/streams/java-8-streams" />
+      <recent name="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-create-examples" />
       <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
       <recent name="$PROJECT_DIR$/traditional-messaging" />
-      <recent name="$PROJECT_DIR$/traditional-messaging/activemq" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
@@ -231,23 +238,11 @@
       <workItem from="1716743628157" duration="736000" />
       <workItem from="1716909034108" duration="1642000" />
       <workItem from="1716912944321" duration="517000" />
-      <workItem from="1716913486161" duration="1160000" />
-    </task>
-    <task id="LOCAL-00077" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1704974817552</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1704974817552</updated>
-    </task>
-    <task id="LOCAL-00078" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1705064679027</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1705064679028</updated>
+      <workItem from="1716913486161" duration="1945000" />
+      <workItem from="1716954601582" duration="789000" />
+      <workItem from="1717004647803" duration="221000" />
+      <workItem from="1717038327734" duration="3811000" />
+      <workItem from="1717233113056" duration="2809000" />
     </task>
     <task id="LOCAL-00079" summary="first commit">
       <option name="closed" value="true" />
@@ -625,14 +620,29 @@
       <option name="project" value="LOCAL" />
       <updated>1716913647695</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="java-8-streams 03">
+      <option name="closed" value="true" />
+      <created>1716919954289</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1716919954290</updated>
+    </task>
+    <task id="LOCAL-00127" summary="java-8-streams 03">
+      <option name="closed" value="true" />
+      <created>1717050668909</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1717050668910</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="verticle-example02 02" />
     <MESSAGE value="verticle-example03 01" />
     <MESSAGE value="verticle-example 03 02" />
     <MESSAGE value="corrections" />
@@ -657,6 +667,7 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="java-8-streams 01" />
     <MESSAGE value="java-8-streams 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-8-streams 02" />
+    <MESSAGE value="java-8-streams 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="java-8-streams 03" />
   </component>
 </project>
