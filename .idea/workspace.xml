@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/src/main/java/com/jreact/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/src/main/java/com/jreact/MySubscriber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/streams/reactive-streams/java-flow-api/java-flow-api-publisher/src/test/java/com/jreact/MySubscriberTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +47,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/reactive-streams/java-flow-api",
+    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/reactive-streams/java-flow-api/java-flow-api-publisher",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -242,15 +234,9 @@
       <workItem from="1716954601582" duration="789000" />
       <workItem from="1717004647803" duration="221000" />
       <workItem from="1717038327734" duration="3811000" />
-      <workItem from="1717233113056" duration="2809000" />
-    </task>
-    <task id="LOCAL-00079" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1705684240261</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1705684240261</updated>
+      <workItem from="1717233113056" duration="3606000" />
+      <workItem from="1717256020987" duration="1247000" />
+      <workItem from="1717348253609" duration="374000" />
     </task>
     <task id="LOCAL-00080" summary="README.md">
       <option name="closed" value="true" />
@@ -636,14 +622,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717050668910</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="java flow api 01">
+      <option name="closed" value="true" />
+      <created>1717239491486</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1717239491487</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="verticle-example03 01" />
     <MESSAGE value="verticle-example 03 02" />
     <MESSAGE value="corrections" />
     <MESSAGE value="event bus 01" />
@@ -668,6 +661,7 @@
     <MESSAGE value="java-8-streams 01" />
     <MESSAGE value="java-8-streams 02" />
     <MESSAGE value="java-8-streams 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="java-8-streams 03" />
+    <MESSAGE value="java flow api 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="java flow api 01" />
   </component>
 </project>
