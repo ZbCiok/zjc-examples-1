@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="java flow api 02">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +45,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/reactive-streams/java-flow-api/java-flow-api-publisher-multi-subscriber",
+    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/streams/reactive-streams/java-flow-api/java-flow-api-subscription",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -90,6 +88,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -238,14 +244,7 @@
       <workItem from="1717256020987" duration="1247000" />
       <workItem from="1717348253609" duration="374000" />
       <workItem from="1717351551580" duration="893000" />
-    </task>
-    <task id="LOCAL-00081" summary="README.md 2">
-      <option name="closed" value="true" />
-      <created>1705685029730</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1705685029730</updated>
+      <workItem from="1718125897237" duration="525000" />
     </task>
     <task id="LOCAL-00082" summary="first commit">
       <option name="closed" value="true" />
@@ -631,14 +630,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717351735075</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="flow subscription 01">
+      <option name="closed" value="true" />
+      <created>1718126074961</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1718126074961</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="corrections" />
     <MESSAGE value="event bus 01" />
     <MESSAGE value="event-bus-pub-sub" />
     <MESSAGE value="deploy" />
@@ -663,6 +669,7 @@
     <MESSAGE value="java-8-streams 03" />
     <MESSAGE value="java flow api 01" />
     <MESSAGE value="java flow api 02" />
-    <option name="LAST_COMMIT_MESSAGE" value="java flow api 02" />
+    <MESSAGE value="flow subscription 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="flow subscription 01" />
   </component>
 </project>
