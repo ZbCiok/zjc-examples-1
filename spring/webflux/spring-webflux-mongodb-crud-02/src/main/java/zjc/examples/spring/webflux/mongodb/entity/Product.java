@@ -6,7 +6,6 @@ import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-// An entity class representing a product
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
