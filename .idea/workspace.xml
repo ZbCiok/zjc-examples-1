@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="">
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="first commit 1">
+      <change afterPath="$PROJECT_DIR$/quarkus/crud/getting-started-reactive-crud/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +25,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ZbCiok/zjc-examples-01.git&quot;,
-    &quot;accountId&quot;: &quot;302b4da6-5467-4215-ac7f-f027d451679e&quot;
+    &quot;accountId&quot;: &quot;ae7ce92a-86a7-44fa-8614-76b52f8b64ef&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
@@ -47,7 +48,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/spring/webflux/spring-webflux-postgresql-crud-02",
+    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/quarkus/crud/getting-started-reactive-crud",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,11 +63,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quarkus/crud/getting-started-reactive-crud" />
+      <recent name="$PROJECT_DIR$/quarkus/crud" />
       <recent name="$PROJECT_DIR$/spring/webflux" />
       <recent name="$PROJECT_DIR$/streams/reactive-streams/java-flow-api" />
       <recent name="$PROJECT_DIR$/streams/java-8-streams" />
-      <recent name="$PROJECT_DIR$/streams/java-8-streams/java-8-stream-create-examples" />
-      <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
@@ -90,14 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -253,14 +246,6 @@
       <workItem from="1718984309225" duration="1092000" />
       <workItem from="1719318788068" duration="121000" />
       <workItem from="1719335764513" duration="135000" />
-    </task>
-    <task id="LOCAL-00087" summary="README.md">
-      <option name="closed" value="true" />
-      <created>1708499888641</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1708499888642</updated>
     </task>
     <task id="LOCAL-00088" summary="first commit">
       <option name="closed" value="true" />
@@ -646,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719318879796</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="first commit 1">
+      <option name="closed" value="true" />
+      <created>1720606409878</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1720606409878</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
