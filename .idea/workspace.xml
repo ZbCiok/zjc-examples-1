@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="first commit 2" />
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="first commit aws kinesis">
+      <change afterPath="$PROJECT_DIR$/aws/aws/aws-kinesis-kplkinesislibrary/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/quarkus/crud/getting-started-reactive-crud",
+    "last_opened_file_path": "/home/zbyszek/jreact_com_PROJECT/zjc-examples/quarkus/aws",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,13 +62,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/quarkus/aws" />
       <recent name="$PROJECT_DIR$/quarkus/crud/getting-started-reactive-crud" />
       <recent name="$PROJECT_DIR$/quarkus/crud" />
       <recent name="$PROJECT_DIR$/spring/webflux" />
       <recent name="$PROJECT_DIR$/streams/reactive-streams/java-flow-api" />
-      <recent name="$PROJECT_DIR$/streams/java-8-streams" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aws" />
       <recent name="$PROJECT_DIR$/reactive-messaging/rabbitmq" />
       <recent name="$PROJECT_DIR$/reactive-messaging" />
       <recent name="$PROJECT_DIR$/micronaut" />
@@ -243,22 +246,6 @@
       <workItem from="1718984309225" duration="1092000" />
       <workItem from="1719318788068" duration="121000" />
       <workItem from="1719335764513" duration="135000" />
-    </task>
-    <task id="LOCAL-00089" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1708535524272</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1708535524272</updated>
-    </task>
-    <task id="LOCAL-00090" summary="README.md">
-      <option name="closed" value="true" />
-      <created>1708536017001</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1708536017001</updated>
     </task>
     <task id="LOCAL-00091" summary="first commit">
       <option name="closed" value="true" />
@@ -636,14 +623,29 @@
       <option name="project" value="LOCAL" />
       <updated>1720606679345</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="first commit aws kinesis">
+      <option name="closed" value="true" />
+      <created>1724336474822</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1724336474822</updated>
+    </task>
+    <task id="LOCAL-00139" summary="first commit aws kinesis">
+      <option name="closed" value="true" />
+      <created>1724336638816</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1724336638816</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readme.md 2" />
     <MESSAGE value="corrections 01" />
     <MESSAGE value="corrections 02" />
     <MESSAGE value="README.md 01" />
@@ -668,6 +670,7 @@
     <MESSAGE value="spring webflux 01" />
     <MESSAGE value="first commit 1" />
     <MESSAGE value="first commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit 2" />
+    <MESSAGE value="first commit aws kinesis" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit aws kinesis" />
   </component>
 </project>
