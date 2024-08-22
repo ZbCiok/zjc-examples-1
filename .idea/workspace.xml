@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="first commit 1">
-      <change afterPath="$PROJECT_DIR$/quarkus/crud/getting-started-reactive-crud/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c8413cd-5085-46f2-a941-9f28d8cf6632" name="Changes" comment="first commit 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -246,14 +243,6 @@
       <workItem from="1718984309225" duration="1092000" />
       <workItem from="1719318788068" duration="121000" />
       <workItem from="1719335764513" duration="135000" />
-    </task>
-    <task id="LOCAL-00088" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1708508428518</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1708508428518</updated>
     </task>
     <task id="LOCAL-00089" summary="first commit">
       <option name="closed" value="true" />
@@ -639,14 +628,21 @@
       <option name="project" value="LOCAL" />
       <updated>1720606409878</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="first commit 2">
+      <option name="closed" value="true" />
+      <created>1720606679344</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1720606679345</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="readme.md" />
     <MESSAGE value="readme.md 2" />
     <MESSAGE value="corrections 01" />
     <MESSAGE value="corrections 02" />
@@ -671,6 +667,7 @@
     <MESSAGE value="flow SubmissionPublisher 01" />
     <MESSAGE value="spring webflux 01" />
     <MESSAGE value="first commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit 1" />
+    <MESSAGE value="first commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit 2" />
   </component>
 </project>
